@@ -1,6 +1,6 @@
-# 🚀 Namaste DSA Journey by Akshay Saini
+# 🚀 Namaste DSA Journey
 
-Welcome to my personal DSA (Data Structures and Algorithms) learning repo. I'm following the [Namaste DSA](https://namastedev.com/learn/namaste-dsa) course by **Akshay Saini**, and documenting my journey, notes, and code here.
+Welcome to my personal DSA (Data Structures and Algorithms) learning repo. I'm following the [Namaste DSA](https://namastedev.com/learn/namaste-dsa) course by **Akshay Saini** & **Leetcode Problems**, and documenting my journey, notes, and code here.
 
 > 🕐 Started on: June 18, 2025  
 > 💪 It's never too late to start. Let's go!
